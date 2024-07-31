@@ -22,4 +22,5 @@ Hellfire Streaming boasts a sleek, user-friendly interface that makes navigating
 Hellfire Streaming prioritizes user security. The platform employs robust security measures to protect your data..
 
 * Hellfire streaming does not provide any content of any type.
+* <br>
 ** This software is just a tool for handeling what you already have a legal access to.
